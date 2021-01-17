@@ -28,7 +28,7 @@ Join the [bot support group](https://t.me/Hackerconsole) if you need any bot sup
 
 Made With Love By @hackerconsole
 
- Add me to a group by clicking [here](http://t.me/tg_Groupmanagmentbot?startgroup=true).
+ Add me to a group by clicking [here](http://t.me/hackerconsolebot?startgroup=true).
 """
 
 
